@@ -149,15 +149,15 @@
   }
 
   .first h2 {
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   .first h3 {
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   .first p {
-    margin-left: 20px;
+    margin-left: 25px;
   }
   .container .second {
     width: 230px;
@@ -165,15 +165,15 @@
   }
 
   .second h5 {
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   .inline1 {
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   .block {
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   .container .third {
@@ -182,16 +182,16 @@
   }
 
   .third h5 {
-    margin-left: 20px;
+    margin-left: 25px;
   }
 
   .third p {
-    margin-left: 20px;
+    margin-left: 25px;
   }
-  
+
   button {
     width: 150px;
-    margin-left: 20px;
+    margin-left: 25px;
   }
  }
 
@@ -208,15 +208,15 @@
   }
 
   .first h2 {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .first h3 {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .first p {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .container .second {
@@ -225,15 +225,15 @@
   }
 
   .second h5 {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .inline1 {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .block {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .container .third {
@@ -242,14 +242,14 @@
   }
 
   .third h5 {
-    margin-left: 10px;
+    margin-left: 15px;
   }
 
   .third p {
-    margin-left: 10px;
+    margin-left: 15px;
   }
   button {
     width: 100px;
-    margin-left: 10px;
+    margin-left: 15px;
   }
  }
