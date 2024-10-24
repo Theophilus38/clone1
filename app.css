@@ -1,5 +1,5 @@
  .container {
-   background-color: red;
+   background-color: #e9edc9;
    width: 100%;
    height: 100vh;
    display: flex;
@@ -8,33 +8,38 @@
    justify-content:center;
    flex-wrap:wrap;
    align-content:center ;
+  
  }
 
  .div-cover{
   width: 60%;
+  height: 550px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  border-radius:50px;
  }
 
  .container .first {
    background-color: white;
    width: 100%;
    height: 250px;
+   border-top-left-radius: 5px;
+   border-top-right-radius: 5px
  }
 
  .container .second {
    background-color: #2bb1ae;
    width: 50%;
    height: 300px;
+   border-bottom-left-radius: 5px;
  }
 
  .container .third {
    background-color: #49bdbc;
    width: 50%;
    height: 300px;
+   border-bottom-right-radius: 5px;
  }
 
  .first h2 {
