@@ -19,24 +19,22 @@
   border-radius:50px;
  }
 
- .container div {
-   height: 250px;
- }
-
-
  .container .first {
    background-color: white;
    width: 100%;
+   height: 250px;
  }
 
  .container .second {
    background-color: #2bb1ae;
    width: 50%;
+   height: 300px;
  }
 
  .container .third {
    background-color: #49bdbc;
    width: 50%;
+   height: 300px;
  }
 
  .first h2 {
@@ -108,8 +106,9 @@
  button {
   background-color: #b8df44;
   margin-left: 50px;
+  margin-top: 20px;
   width: 250px;
-  height: 38px;
+  height: 60px;
   color: white;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   border: 0px;
@@ -129,7 +128,7 @@
   font-family: "Noto sans", sans-serif;
   color:#e6e8e6 ;
   font-weight: 500;
-  font-size: 8px;
+  font-size: 10px;
  }
 
  .third .aa {
